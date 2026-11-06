@@ -1,0 +1,9 @@
+Model,RMSE,MAE,R2
+Mean baseline - train,3.506363162,2.879063954,0
+Mean baseline - test,3.679367496,3.085347917,-0.000382079
+Full tree - train,0,0,1
+Full tree - test,1.300276894,0.990333333,0.875062947
+Pre-pruned tree - train,0.855502835,0.667993505,0.940470927
+Pre-pruned tree - test,1.021532109,0.783105545,0.922887708
+Post-pruned tree - train,0.81721684,0.663106087,0.945679867
+Post-pruned tree - test,1.131074028,0.868094634,0.905463041
